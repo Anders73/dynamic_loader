@@ -1,0 +1,17 @@
+/* Written by Anders Lindén
+     description: Styling of image-containers and images */
+.black,.blue,.green,.red {
+     width: 30%;
+}
+.black,.blue,.green,.red {
+    position: relative; left: 15%;
+    float: left;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%; 
+}
+.black img,.blue img,.green img,.red img {
+     width: 100%;
+}
+
+ 
