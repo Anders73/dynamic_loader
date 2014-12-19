@@ -1,4 +1,4 @@
-# dynamic_loader #
+ dynamic_loader #
 Dynamicly loading base64-coded images with jQuery AJAX based on Window.matchMedia rules. 
 
 ----------
@@ -30,7 +30,7 @@ match up with the class-name (included in the image-filename).
 The image type(also included in the filename) and source makes up the img-tag  
 and appends it to the div-container.
 
-	image_loader.css   
+	styles.css   
 Each image-folder includes a css-file that is    
 injected in the html head-element from dynamic_loader.js   
   
