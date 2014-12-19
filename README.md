@@ -1,4 +1,4 @@
- dynamic_loader #
+# dynamic_loader #
 Dynamicly loading base64-coded images with jQuery AJAX based on Window.matchMedia rules. 
 
 ----------
