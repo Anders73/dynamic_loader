@@ -1,6 +1,8 @@
 # dynamic_loader #
 Dynamicly loading base64-coded images with jQuery AJAX based on Window.matchMedia rules. 
 
+See live demo at http://opq.rf.gd/
+
 ----------
 
 ## How it works ##
